@@ -1,0 +1,13 @@
+Practica Variable Elimination y Gradient Boosting
+
+Autores: 
+Enrique Ernesto de Alvear Doñate 
+Javier Alarcón Carcena
+
+_____________________
+
+El jupyter notebook para variable elimination se encuentra dentro de la carpeta
+bayes, y se llama bayes_sin_sols
+
+
+El notebook para Gradient boosting es conjuntos_sin_sols
